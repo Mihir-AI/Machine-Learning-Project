@@ -1,5 +1,4 @@
 # Machine-Learning-Project
-
 This notebook demonstrates a complete machine learning pipeline to:
 
 Load and preprocess historical bulldozer sales data
